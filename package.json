@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Nic-Grunklee.github.io/contextContactManger",
+  "homepage": "https://nic-grunklee.github.io/context-contact-manager",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.2.1",

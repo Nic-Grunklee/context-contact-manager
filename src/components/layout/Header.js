@@ -16,6 +16,9 @@ const Header = (props) => {
               </Link>
             </li>
             <li className="nav-item">
+              <span>{process.env.REACT_APP_SECRET_CODE}</span>
+            </li>
+            <li className="nav-item">
               <Link to="/contact/add" className="nav-link">
                 <i className="fas fa-plus"></i>Add
               </Link>

@@ -20,3 +20,4 @@ deploy:
   token:
     secure: $FIREBASE_TOKEN
   project: $PROJECT_ID
+

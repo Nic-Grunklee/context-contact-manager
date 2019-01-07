@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Nic-Grunklee/context-contact-manager.svg?branch=master)](https://travis-ci.org/Nic-Grunklee/context-contact-manager)
+
 Contact manager built using React with Context state manager.
 
 To view demo, visit https://nic-grunklee.github.io/context-contact-manager/#/

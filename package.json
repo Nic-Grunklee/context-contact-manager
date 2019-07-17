@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://nic-grunklee.github.io/context-contact-manager",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": ">=0.18.1",
     "bootstrap": "^4.2.1",
     "classnames": "^2.2.6",
     "gh-pages": "^2.0.1",
